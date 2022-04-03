@@ -1,0 +1,11 @@
+#one{
+    border :solid 30px  green;
+    border-width: 5px;
+    outline: solid 30px red;
+    padding: 20px  20px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 15% 30%  60% 25%;
+    align-items: center;
+}
